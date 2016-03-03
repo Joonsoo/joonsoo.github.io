@@ -10,53 +10,53 @@ There are four types of git objects: blob, tree, commit, and tag.
 
 [GitAbstractObject trait and GitObject class][GitAbstractObject]:
 {% highlight scala %}
-    trait GitAbstractObject {
-        val id: GitId
+trait GitAbstractObject {
+    val id: GitId
 
-        lazy val content: Array[Byte] = actualContent
+    lazy val content: Array[Byte] = actualContent
 
-        protected def actualContent: Array[Byte]
+    protected def actualContent: Array[Byte]
 
-        // TODO make it abstract and implement it on inherited classes
-        def verify: Boolean = true
-    }
+    // TODO make it abstract and implement it on inherited classes
+    def verify: Boolean = true
+}
 
-    sealed abstract class GitObject extends GitAbstractObject {
-        val objectType: GitObject.Types
-    }
+sealed abstract class GitObject extends GitAbstractObject {
+    val objectType: GitObject.Types
+}
 {% endhighlight %}
 
 [GitBlob][GitBlob], [GitTree][GitTree], [GitCommit][GitCommit], [GitTag][GitTag] classes:
 {% highlight scala %}
-    abstract class GitBlob extends GitObject {
-        val objectType = GitObject.Types.BLOB
-    }
+abstract class GitBlob extends GitObject {
+    val objectType = GitObject.Types.BLOB
+}
 
-    abstract class GitTree extends GitObject {
-        val objectType = GitObject.Types.TREE
+abstract class GitTree extends GitObject {
+    val objectType = GitObject.Types.TREE
 
-        val entries: List[GitTree.Entry]
-    }
+    val entries: List[GitTree.Entry]
+}
 
-    abstract class GitCommit extends GitObject {
-        val objectType = GitObject.Types.COMMIT
+abstract class GitCommit extends GitObject {
+    val objectType = GitObject.Types.COMMIT
 
-        val tree: GitId
-        val parents: List[GitId]
-        val author: Option[GitUser]
-        val committer: Option[GitUser]
-        val message: Array[Byte]
-    }
+    val tree: GitId
+    val parents: List[GitId]
+    val author: Option[GitUser]
+    val committer: Option[GitUser]
+    val message: Array[Byte]
+}
 
-    abstract class GitTag extends GitObject {
-        val objectType = GitObject.Types.TAG
+abstract class GitTag extends GitObject {
+    val objectType = GitObject.Types.TAG
 
-        val objId: GitId
-        val objType: String
-        val tagName: String
-        val tagger: Option[GitUser]
-        val message: Array[Byte]
-    }
+    val objId: GitId
+    val objType: String
+    val tagName: String
+    val tagger: Option[GitUser]
+    val message: Array[Byte]
+}
 {% endhighlight %}
 
 [GitAbstractObject]: https://github.com/Joonsoo/gitexplorer/blob/master/src/main/scala/com/giyeok/gitexplorer/model/GitObjects.scala#L19-L32
