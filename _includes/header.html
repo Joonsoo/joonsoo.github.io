@@ -1,0 +1,16 @@
+<aside class="logo">
+
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Hello' %}
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Back to Home' %}
+	{% endif %}
+
+	<a href="{{ link }}">
+		<img src="/assets/avatar.png">
+	</a>
+	<span class="logo-prompt">{{ prompt }}</span>
+
+</aside>
