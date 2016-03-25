@@ -24,7 +24,7 @@
     * When I was taking a programming language course, I designed and implemented a script language just for fun. The implementation was written in C++, and everything including tokenizer, parser, and interpreter is made from scratch. But in fact, it was very difficult task for me at the time, so the implementation was extremely error-prone and it does not free ANY created instance, so it makes severe memory leaks. I have learned one thing from this project: Python is great. Let's just use Python. Anyhow, it was a project just for fun. <i class="fa fa-smile-o"></i>
 
   * 2013, Dexdio, A Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I didn't finish.
+    * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I couldn't finish this project.
 
   * 2013, evtmgr, An automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
     * It was a private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
