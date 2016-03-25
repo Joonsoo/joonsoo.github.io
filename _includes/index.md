@@ -3,7 +3,7 @@
 
 ### Education
 
-* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Korean</a>)
+* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (Thesis: <a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> 가상화 기법으로 난독화된 실행 파일의 동적 분석 방법</a>)
 * Feb 2007-Feb 2010, B.S. in Computer Science, KAIST
 
 ### Experience
@@ -15,32 +15,35 @@
 
 * Professional Projects
   * 2014-2015, KakaoTalk server, Kakao
-  * 2012-2013, Tizen SDK, webida, S-Core
-  * 2010-2012, Trudio, M.S. Thesis <a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Korean</a>
-    * Reverse engineering assistant tool for heavily obfuscated executable binaries. Used [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) to generate an execution trace from the target software, and used Python and wxPython to make a prototype of analyzer, and the final trace analyzer was implemented in Java.
-    * Further research might be finer analysis of each instruction. Since Intel Architecture, which was the target platform of Trudio, is a CISC system, an instruction of IA(Intel Architecture) makes many side-effects. For example, simple arithematic instruction will change the flag as well as the destination of the instruction to save the result of the operation.
+  * 2012-2013, Tizen SDK and webida, S-Core
+  * 2010-2012, Trudio, M.S. (Thesis: <a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> 가상화 기법으로 난독화된 실행 파일의 동적 분석 방법</a>)
+    * Trudio is a reverse engineering assistant tool for heavily obfuscated executable binary executables. [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) was used to generate an instruction level execution trace from the target executable. The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
 
 * Personal Projects
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * While I was taking the programming language course in college, I designed and implemented a script language just for fun. The implementation was written in C++, but I did not manage ANY created instance, so it makes severe memory leaks. It was a project just for fun after all. <i class="fa fa-smile-o"></i>
+    * When I was taking a programming language course, I designed and implemented a script language just for fun. The implementation was written in C++, and everything including tokenizer, parser, and interpreter is made from scratch. But in fact, it was very difficult task for me at the time, so the implementation was extremely error-prone and it does not free ANY created instance, so it makes severe memory leaks. I have learned one thing from this project: Python is great. Let's just use Python. Anyhow, it was a project just for fun. <i class="fa fa-smile-o"></i>
+
   * 2013, Dexdio, A Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I didn't finish.
+
   * 2013, evtmgr, An automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
-    * It was a private project to manage a big tournament match. It successfully holds an one-year-long tournament match with tens of players.
+    * It was a private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
+
+  * 2013, gitexplorer, A git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
+
   * 2013-2016, Moon Parser, An automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * Automated parser with more flexible and rich idioms
-  * 2016-, bom.js
 
 ### Interests
 
 * Program analysis
-* Software development tooling - automated test case generation
+  * Software development tooling
+  * Automated test case generation
 * Artificial Intelligence
 * 3D scanners and printers
 * Automated farming
 
 ### Contacts
-<i class="fa fa-2 fa-link"></i>        <a href="http://www.giyeok.com">www.giyeok.com</a> <a class="btn btn-default btn-xs" href="{% post_url 2016-03-22-what-is-giyeok %}">Giyeok?</a>  
+<i class="fa fa-2 fa-link"></i>        <a href="http://www.giyeok.com">www.giyeok.com</a> <a class="btn btn-default btn-xs" href="{% post_url 2016-03-23-what-is-giyeok %}">Giyeok?</a>  
 <i class="fa fa-2 fa-envelope-o"></i>  <a href="mailto:giyeok7@gmail.com">giyeok7@gmail.com</a>  
 <i class="fa fa-2 fa-mobile"></i>      +82 10-6660-6540  
 <a class="btn btn-default narrow" href="https://github.com/joonsoo"><i class="fa fa-3 fa-github"></i></a>

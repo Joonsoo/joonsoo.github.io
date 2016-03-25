@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Structure of Git Repository"
-date:   2013-10-08 20:27:30
+date:   2013-10-08 20:27:30 KST
 categories: gitexplorer
 ---
 
