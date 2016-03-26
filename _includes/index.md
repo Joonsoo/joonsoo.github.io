@@ -3,7 +3,7 @@
 
 ### Education
 
-* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (Thesis: <a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> 가상화 기법으로 난독화된 실행 파일의 동적 분석 방법</a>)
+* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
 * Feb 2007-Feb 2010, B.S. in Computer Science, KAIST
 
 ### Experience
@@ -16,18 +16,18 @@
 * Professional Projects
   * 2014-2015, KakaoTalk server, Kakao
   * 2012-2013, Tizen SDK and webida, S-Core
-  * 2010-2012, Trudio, M.S. (Thesis: <a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> 가상화 기법으로 난독화된 실행 파일의 동적 분석 방법</a>)
+  * 2010-2012, Trudio, M.S. (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
     * Trudio is a reverse engineering assistant tool for heavily obfuscated executable binary executables. [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) was used to generate an instruction level execution trace from the target executable. The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
 
 * Personal Projects
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * When I was taking a programming language course, I designed and implemented a script language just for fun. The implementation was written in C++, and everything including tokenizer, parser, and interpreter is made from scratch. But in fact, it was very difficult task for me at the time, so the implementation was extremely error-prone and it does not free ANY created instance, so it makes severe memory leaks. I have learned one thing from this project: Python is great. Let's just use Python. Anyhow, it was a project just for fun. <i class="fa fa-smile-o"></i>
+    * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
 
   * 2013, Dexdio, A Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I couldn't finish this project.
 
   * 2013, evtmgr, An automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
-    * It was a private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
+    * A private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
 
   * 2013, gitexplorer, A git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
