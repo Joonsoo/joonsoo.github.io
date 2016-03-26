@@ -17,7 +17,7 @@
   * 2014-2015, KakaoTalk server, Kakao
   * 2012-2013, Tizen SDK and webida, S-Core
   * 2010-2012, Trudio, M.S. (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
-    * Trudio is a reverse engineering assistant tool for heavily obfuscated executable binary executables. [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) was used to generate an instruction level execution trace from the target executable. The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
+    * Trudio is a reverse engineering assistant tool for heavily obfuscated binary executables. [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) was used to generate an instruction level execution trace from the target executable. The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
 
 * Personal Projects
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
