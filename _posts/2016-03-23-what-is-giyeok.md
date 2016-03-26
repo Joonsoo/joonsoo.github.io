@@ -5,7 +5,8 @@ date:   2016-03-23 20:47:44 KST
 categories: misc
 ---
 
-> I have been using nickname "giyeok" for years and owned giyeok.com as well. "Giyeok(기역)" is the name of the first letter of Korean writing system, [Hangul(한글)](https://en.wikipedia.org/wiki/Hangul). I love Hangul. Hangul is a beautifully designed writing system, and it was invented with the love for the normal public people.
+> I have been using nickname "giyeok" for years and owned giyeok.com as well. "Giyeok(기역)" is the name of the first letter of Korean writing system, [Hangul(한글)](https://en.wikipedia.org/wiki/Hangul). I love Hangul. Hangul is a beautifully designed writing system, and it was invented with the love for the normal public people. I am not an expert on Hangul or history, but I want to share what I know about Hangul.
+
 
 # Why do I love Hangul so much?
 
@@ -23,16 +24,16 @@ Finally, he decided to invent a new writing system for Korean language, and he i
 
 Surprisingly, most intellectuals and politicians desperately opposed with King Sejong about the new writing system. They believed that educating or enlightening public peple would be disaster. They believed that the uneducated people who can read and write would abuse the law and rules, so eventually lead the entire society into chaos.
 
-King Sejong, however, was different. He believed every person, even a lower class person, can be improved by learning. It was a very progressive thought since Korean society was very conservative at the time and he was a king indeed.
+King Sejong, however, was different. He believed every person, even a lower class person, can be improved by learning. I think it was a very progressive thought since Korean society was very conservative at the time and he was actually a king. I think this attitude of being respectful and loving to the normal public people makes him a great king.
 
-I think this attitude of being respectful and loving to the normal public people makes him the only king we named "great" among 27 kings of Joseon dynasty, which was the kingdom ruled the Korean territory from 1392 to 1910. Even the founder of Joseon is not called "great".
+In fact, opponents believed that the relation with China was the bigger issue. Korea at that time was called Joseon, and Joseon had a diplomatic policy of "serving the great" policy towards Imperial China. [#](https://en.wikipedia.org/wiki/Gyorin) And the opponents thought that the new writing system will offend China. However, King Sejong believed that making improving people's lives is the most important thing and China should not be offended.
 
-I believe we, software engineers, have something in common with King Sejong in philosophy. We are trying to improve people's lives by spreading the knowledge and by utilizing new scientific achievements, just like he did hundreds years ago.
+I believe we, software engineers, have something in common with King Sejong. We are trying to improve people's lives by spreading the knowledge and by utilizing new scientific achievements, just like he did hundreds years ago.
 
 
 # What does Hangul look like?
 
-I am not an expert of linguistics, so I guess [Wikipedia page](https://en.wikipedia.org/wiki/Hangul) can give you more detail and precise explanation about Hangul, but I want to briefly describe it here.
+I am not an expert of Hangul, so I guess [Wikipedia page](https://en.wikipedia.org/wiki/Hangul) can give you more detail and precise explanation about Hangul, but I want to briefly describe it here.
 
 Basically, each letter of Hangul represents one syllable. A letter is composed of one or more consonants and one vowel. Thus, Hangul has separate two sets of letters for consonants and vowels (and giyeok is the name of the first letter of the consonant letters).
 
