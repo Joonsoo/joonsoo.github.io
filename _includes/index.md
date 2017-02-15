@@ -33,6 +33,9 @@
 
   * 2013-2016, Moon Parser, An automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
+### For Fun
+  * <a href="https://cdn.rawgit.com/Joonsoo/identicon/150e1e39/index.html">(GitHub-like) Identicon Generator</a>
+
 ### Interests
 
 * Program analysis
