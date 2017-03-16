@@ -23,15 +23,14 @@
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
 
-  * 2013, Dexdio, Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I couldn't finish this project.
-
   * 2013, evtmgr, Automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
     * A private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
 
   * 2013, gitexplorer, Git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
-  * 2013-, Moon Parser, Automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013-2017, Dexdio, Dalvik executable reverse engineering tool <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
+
+  * 2013-2017, Moon Parser, Automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
   
   * 2017, Passzero, Secure password manager <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
@@ -40,7 +39,7 @@
 
 ### Interests
 
-* Program analysis
+* Program Analysis
   * Software development tooling
   * Automated test case generation
 * Artificial Intelligence
