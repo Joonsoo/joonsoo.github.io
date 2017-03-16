@@ -3,21 +3,21 @@
 
 ### Education
 
-* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
 * Feb 2007-Feb 2010, B.S. in Computer Science, KAIST
+* Feb 2010-Feb 2012, M.S. in Computer Science, KAIST (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
 
 ### Experience
 
-* Feb 2014-Feb 2016, Server Software Engieer, <a href="http://www.kakaocorp.com">Kakao</a>
 * Feb 2012-Feb 2014, Software Engineer, <a href="http://www.s-core.co.kr">S-Core</a>
+* Feb 2014-Feb 2016, Server Software Engieer, <a href="http://www.kakaocorp.com">Kakao</a>
 
 ### Projects
 
 * Professional Projects
-  * 2014-2015, KakaoTalk server, Kakao
-  * 2012-2013, Tizen SDK and webida, S-Core
   * 2010-2012, Trudio, M.S. (<a class="btn btn-default btn-sm narrow" href="http://library.kaist.ac.kr/thesis02/2012/2012M020103567_S1Ver2.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
     * Trudio is a reverse engineering assistant tool for heavily obfuscated binary executables. [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) was used to generate an instruction level execution trace from the target executable. The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
+  * 2012-2013, Tizen SDK and webida, S-Core
+  * 2014-2015, KakaoTalk server, Kakao
 
 * Personal Projects
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
@@ -31,7 +31,9 @@
 
   * 2013, gitexplorer, A git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
-  * 2013-2016, Moon Parser, An automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013-, Moon Parser, An automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  
+  * 2017, Passzero, Safe password manager <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
 ### For Fun
   * <a href="https://cdn.rawgit.com/Joonsoo/identicon/150e1e39/index.html">(GitHub-like) Identicon Generator</a>
