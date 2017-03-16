@@ -23,17 +23,17 @@
   * 2009, giyeok programming language, A scripting language <span class="btn btn-xs btn-default">Complete?</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
 
-  * 2013, Dexdio, A Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013, Dexdio, Dalvik executable analyzer <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * Tried to make a reverse engineering tool for Dalvik executable of Android paltform, but I couldn't finish this project.
 
-  * 2013, evtmgr, An automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
+  * 2013, evtmgr, Automated tournament game manager <span class="btn btn-xs btn-default">Complete</span>
     * A private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
 
-  * 2013, gitexplorer, A git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013, gitexplorer, Git repository visualization tool <span class="btn btn-xs btn-default">Incomplete</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
-  * 2013-, Moon Parser, An automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013-, Moon Parser, Automated parser <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/moon-parser"><i class="fa fa-2 fa-github"></i>GitHub</a>
   
-  * 2017, Passzero, Safe password manager <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2017, Passzero, Secure password manager <span class="btn btn-xs btn-default">Working</span> <a class="btn btn-default narrow" href="https://github.com/Joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
 ### For Fun
   * <a href="https://cdn.rawgit.com/Joonsoo/identicon/150e1e39/index.html">(GitHub-like) Identicon Generator</a>
