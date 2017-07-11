@@ -47,7 +47,6 @@
 * Automated farming
 
 ### Contacts
-<i class="fa fa-2 fa-link"></i>        <a href="http://www.giyeok.com">www.giyeok.com</a> <a class="btn btn-default btn-xs" href="{% post_url 2016-03-23-what-is-giyeok %}">Giyeok?</a>  
 <i class="fa fa-2 fa-envelope-o"></i>  <a href="mailto:giyeok7@gmail.com">giyeok7@gmail.com</a>  
 <i class="fa fa-2 fa-mobile"></i>      +82 10-6660-6540  
 <a class="btn btn-default narrow" href="https://github.com/joonsoo"><i class="fa fa-3 fa-github"></i></a>
