@@ -24,16 +24,6 @@
   * 2016-2017, Rework app server, Thenully
 
 * Personal Projects
-  * 2009, Giyeok programming language, A scripting language <a class="btn btn-default narrow" href="https://github.com/joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
-
-  * 2013, Tournament manager, Web-based tournament game manager
-    * A private project to manage tournament matches. It successfully held several tournament matches with dozens of players.
-
-  * 2013, Gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
-
-  * 2013-2017, Dexdio, Dalvik executable reverse engineering tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
-
   * 2013-2017, J Parser, A scannerless parser implementation <a class="btn btn-default narrow" href="https://github.com/joonsoo/jparser"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * I proposed Conditional Derivation Grammar(CDG), that extends Context-Free Grammar with new features: longest match, intersection, exclusion, followed-by, and not-followed-by. It is designed to be capable of integrating lexical grammar and CFG, and modeling modern programming languages. I also devised a parsing algorithm for CDG, and J Parser is an implementation.
     * The proposed algorithm may run in exponential time complexity to the length of the input string. However, it is only the hypothetical upper bound of the time complexity, and I expect the algorithm to run in time complexity in real usages.
@@ -42,6 +32,18 @@
   * 2017, Passzero, Secure password manager <a class="btn btn-default narrow" href="https://github.com/joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * A clone of 1password for personal use. It randomly creates a private key file on local storage encrypted with user defined password in initialization stage, and saves encrypted password information on DropBox using its APIs.
     * It is written in Scala. The GUI was implemented using SWT, but I am working on a new version of GUI using JavaFX for a better compatibility.
+
+  * 2013, Dexdio, Dalvik executable reverse engineering tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
+
+  * 2013, Tournament manager, Web-based tournament game manager
+    * A private web application project to manage tournament matches. It successfully held several tournament matches with dozens of players.
+
+  * 2013, Gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
+
+  * 2009, Giyeok programming language, A scripting language <a class="btn btn-default narrow" href="https://github.com/joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
+    * A programming language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
+    * It is written in C++, but it crashes if an incorrect program is given and does not properly manage the memory spaces(a lot of memory leaks!).
+
 
 ### For Fun
   * <a href="https://cdn.rawgit.com/Joonsoo/identicon/150e1e39/index.html">(GitHub-like) Identicon Generator</a>
