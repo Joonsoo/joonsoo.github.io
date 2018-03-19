@@ -16,21 +16,21 @@
 ### Projects
 
 * Work Projects
-  * 2010-2012, Trudio, M.S. (<a class="btn btn-default btn-sm narrow" href="http://giyeok.com/assets/thesis.pdf"><i class="fa fa-2 fa-file-o"></i> Thesis</a>)
+  * 2010-2012, Trudio
     * Trudio is a reverse engineering assistant tool for heavily obfuscated binary executables. An instruction level execution trace is extracted from the target executable using [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool). The trace analyzer was implemented in [Java]() after the prototype made with [Python]() and [wxPython]().
-    * Source code is not open, but you can download the binaries from [here](https://code.google.com/archive/p/trudio/downloads)
+    * Source code is not open, but you can download the binaries from [here](https://code.google.com/archive/p/trudio/downloads). Paper is [here](http://giyeok.com/assets/thesis.pdf)(korean).
   * 2012-2013, Tizen SDK and webida, S-Core
   * 2014-2015, KakaoTalk server, Kakao
   * 2016-2017, Rework app server, Thenully
 
 * Personal Projects
-  * 2009, giyeok programming language, A scripting language <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2009, Giyeok programming language, A scripting language <a class="btn btn-default narrow" href="https://github.com/Joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
 
-  * 2013, evtmgr, Automated tournament game manager
+  * 2013, Event manager, Automated tournament game manager
     * A private project to manage a tournament match. It successfully held an one-year-long tournament match with dozens of players.
 
-  * 2013, gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
+  * 2013, Gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
   * 2013-2017, Dexdio, Dalvik executable reverse engineering tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
