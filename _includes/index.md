@@ -28,7 +28,7 @@
     * A script language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
 
   * 2013, Tournament manager, Web-based tournament game manager
-    * A private project to manage a tournament match. It successfully held several tournament matches with dozens of players.
+    * A private project to manage tournament matches. It successfully held several tournament matches with dozens of players.
 
   * 2013, Gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
