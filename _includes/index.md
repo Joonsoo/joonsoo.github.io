@@ -18,7 +18,7 @@
 * Work Projects
   * 2010-2012, Trudio
     * Trudio is a reverse engineering assistant tool for heavily obfuscated binary executables. It includes instruction level execution trace extractor developed using [Pintool](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) and trace analyzer implemented in [Java](). Prototype of the trace analyzer was implemented using [Python]() and [wxPython]().
-    * You can download the trace extractor and trace analyzer [here](https://code.google.com/archive/p/trudio/downloads). Paper is [here](http://giyeok.com/assets/thesis.pdf)(korean). Source code is not open.
+    * You can download the trace extractor and trace analyzer [here](https://code.google.com/archive/p/trudio/downloads). Paper is [here](http://giyeok.com/assets/thesis.pdf)(korean) and [here](http://giyeok.com/assets/trudio.pdf)(english draft). Source code is not open.
   * 2012-2013, Tizen SDK and webida, S-Core
   * 2014-2015, KakaoTalk server, Kakao
   * 2016-2017, Rework app server, Thenully
@@ -41,8 +41,7 @@
   * 2013, Gitexplorer, Git repository visualization tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/gitexplorer"><i class="fa fa-2 fa-github"></i>GitHub</a>
 
   * 2009, Giyeok programming language, A scripting language <a class="btn btn-default narrow" href="https://github.com/joonsoo/giyeok"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * A programming language made just for fun while taking a programming language course <i class="fa fa-smile-o"></i>
-    * It is written in C++, but it crashes if an incorrect program is given and does not properly manage the memory spaces(a lot of memory leaks!).
+    * A programming language made just for fun while taking a programming language course. It is written in C++, but it crashes if an incorrect program is given and does not properly manage the memory spaces(a lot of memory leaks!) <i class="fa fa-smile-o"></i>.
 
 
 ### For Fun
