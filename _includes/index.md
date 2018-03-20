@@ -26,7 +26,7 @@
 * Personal Projects
   * 2013-2017, J Parser, A scannerless parser implementation <a class="btn btn-default narrow" href="https://github.com/joonsoo/jparser"><i class="fa fa-2 fa-github"></i>GitHub</a>
     * I proposed Conditional Derivation Grammar(CDG), that extends Context-Free Grammar with new features: longest match, intersection, exclusion, followed-by, and not-followed-by. It is designed to be capable of integrating lexical grammar and CFG, and modeling modern programming languages. I also devised a parsing algorithm for CDG, and J Parser is an implementation.
-    * The proposed algorithm may run in exponential time complexity to the length of the input string. However, it is only the hypothetical upper bound of the time complexity, and I expect the algorithm to run in time complexity in real usages.
+    * The proposed algorithm may run in exponential time complexity to the length of the input string. However, it is only the hypothetical upper bound of the time complexity, and I expect the algorithm to run in practical time complexity in real usages.
     * The implementation is written in Scala. It also provides visualization using [SWT](https://www.eclipse.org/swt/), Eclipse [draw2d](https://www.eclipse.org/gef/draw2d/) and [zest](https://www.eclipse.org/gef/zest/).
 
   * 2017, Passzero, Secure password manager <a class="btn btn-default narrow" href="https://github.com/joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
