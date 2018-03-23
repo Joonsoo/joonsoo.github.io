@@ -31,7 +31,7 @@
     * J Parser is an implementation of the proposed algorithm written in Scala. It also provides visualization using [SWT](https://www.eclipse.org/swt/), Eclipse [draw2d](https://www.eclipse.org/gef/draw2d/) and [zest](https://www.eclipse.org/gef/zest/).
 
   * 2017, Passzero, Secure password manager <a class="btn btn-default narrow" href="https://github.com/joonsoo/passzero"><i class="fa fa-2 fa-github"></i>GitHub</a>
-    * A clone of 1password for personal use. It stores a randomly created secret key encrypted by user defined password to local storage, and encrypts private password information by the local secret key and saves to DropBox.
+    * A clone of 1password for personal use. It stores a randomly created secret key encrypted by user defined password in local storage, and encrypts private password information by the local secret key and saves to DropBox.
     * It is written in Scala. The GUI was implemented using [SWT](https://www.eclipse.org/swt/), but I am working on a new version of GUI using [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) for a better compatibility.
 
   * 2013, Dexdio, Dalvik executable reverse engineering tool <a class="btn btn-default narrow" href="https://github.com/joonsoo/dexdio"><i class="fa fa-2 fa-github"></i>GitHub</a>
